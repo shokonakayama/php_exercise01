@@ -5,6 +5,6 @@ $point = trim(fgets(STDIN));
 
 if($point % 2 === 0){
     echo "{$point}は偶数です";
-}elseif($point % 2 === 1){
+}else{
     echo "{$point}は奇数です";
 }
