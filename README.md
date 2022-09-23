@@ -1,1 +1,1 @@
-echo "# PHPの課題" >> README.md
+# PHPの課題
